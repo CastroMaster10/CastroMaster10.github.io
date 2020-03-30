@@ -10,6 +10,25 @@
     justify-content: space-between;
     border-radius: 1000px;
     background-color: black;
+    margin-top: 50px;
+}
+
+.cabecera {
+
+ border: 1px solid black;
+ width: 250px;
+ height: 37px;
+ margin: auto;
+
+}
+
+.cabecera h1 {
+margin: auto;
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: italic;
+color: rgb(133, 13, 13);
+background-color: black;
 }
 
 .caja1 {
