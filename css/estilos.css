@@ -1,9 +1,51 @@
-h1 {
-    font-size: 50px;
-    color: rebeccapurple;
+.contenedor {
 
-}
-
-body {
+    border: 10px solid black;
+    width: 510px;
+    height: 510px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-shrink: 0;
+    justify-content: space-between;
+    border-radius: 1000px;
     background-color: black;
 }
+
+.caja1 {
+
+    border: 2px solid red;
+    height: 250px;
+    width: 250px;
+    border-radius: 1000px;
+    background-color: red;
+}
+
+.caja2 {
+
+    border: 2px solid red;
+    height: 250px;
+    width: 250px;
+     border-radius: 1000px;
+     background-color: red;
+
+}
+
+.caja3 {
+
+    border: 2px solid red;
+    height: 250px;
+    width: 250px;
+     border-radius: 1000px;
+     background-color: red;
+}
+
+.caja4 {
+
+    border: 2px solid red;
+    height: 250px;
+    width: 250px;
+     border-radius: 1000px;
+     background-color: red;
+}
+
