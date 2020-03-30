@@ -14,6 +14,7 @@
     border-radius: 1000px;
     background-color: black;
     
+    
 }
 
 .cabecera {
@@ -21,6 +22,7 @@
     text-align: center;
     font-style: italic;
     font-size: 30px;
+
    
 }
 
@@ -31,6 +33,8 @@
     width: 250px;
     border-radius: 1000px;
     background-color: red;
+     text-align: center;
+    
 }
 
 .caja2 {
@@ -40,6 +44,7 @@
     width: 250px;
      border-radius: 1000px;
      background-color: red;
+     text-align: center;
 
 }
 
@@ -50,6 +55,7 @@
     width: 250px;
      border-radius: 1000px;
      background-color: red;
+      text-align: center;
 }
 
 .caja4 {
@@ -59,5 +65,13 @@
     width: 250px;
      border-radius: 1000px;
      background-color: red;
+      text-align: center;
+
 }
 
+
+.texto {
+    padding-top: 80px;
+    font-size: 30px;
+    font-weight: bold;
+}
